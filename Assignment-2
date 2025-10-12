@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Web Page</title>
+
+    <header>
+        <h1 style="text-align: center;"><u>Portfolio</u></h1>
+    </header>
+    <nav style="text-align: center;">
+        <a href="#">Home</a> |
+        <a href="#">About</a> |
+        <a href="#">Contact</a>
+    </nav>
+
+    <main>
+        <p style="text-align: center;">Welcome to my portfolio page!<br> Here, you'll find information about myself.</p>
+
+        <section style="text-align: center;">
+            <h2>About Me</h2>
+            <p>AI l Machine Learning | Deep Learning | JAVA | Python | Web Development</p>
+        </section>
+
+        <article style="text-align: center;">
+            <h2>My First Blog</h2>
+            <p>This is my first blog post.<br>I'm excited to share my new journey into web development<br>Stay tuned for more updates!</p>
+        </article>
+</head>
+<body style="background-color: #84cff7;">
+    <h2 style="text-align: center;"><u>Dhruv Tiwari</u></h2>
+    <h3 style="text-align: center;">College Student</h3>
+    <div style="text-align: center;">
+        <img src="https://th.bing.com/th?q=Doraemon+Pixel+Art&w=120&h=120&c=1&rs=1&qlt=70&o=7&cb=1&dpr=1.3&pid=InlineBlock&rm=3&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247", alt="Profile Image" width="300" height="350"><br>
+
+        <code>console.log("Hello Folks!");</code><br>
+
+        <a href="https://doraemon.fandom.com/wiki/Doraemon_Wiki">Click here to see character</a>
+
+        <p>My favorite hobbies <strong>sleeping </strong><em>books</em>,<strong>watching </strong><em>movies</em>,<strong>playing </strong><em>badminton</em> and <strong>listening </strong><em>musics.</em>
+        <br>My favorite colors are <span style="color:black;">Black</span>, <span style="color:white;">White</span>, and <span style="color:brown;">Brown</span>.</p>
+        <br>
+
+        <p>I am <strong>very passionate</strong> about <em>learning new technologies</em> and <strong></strong> improving my skills.
+        I love to explore new things and new places.<br>
+        Thank you for seeing my profile.</p>
+
+        <p>I am <mark>3rd</mark> year student.<br>
+        <small>Updated recently</small></p>
+        <br>
+
+        <p>As a <strong>dedicated</strong> student, I am <em>constantly</em> seeking new opportunities to <mark></mark>expand my knowledge and skills.<br>
+        <br>
+        <blockquote cite="https://www.goodreads.com/quotes">
+            "To live is the rarest thing in the world. Most people exist, that is all."
+            <br> - <cite>Oscar Wilde</cite>
+        </blockquote>
+
+        <aside style="text-align: center;">
+            <h3>Useful Links</h3>
+            <a href="https://leetcode.com/">Leetcode</a><br>
+            <a href="https://theuselessweb.com/">The Useless Web</a>
+        </aside>
+        <br>
+
+        <footer>
+            <p>&copy; 2025 Dhruv Tiwari. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
